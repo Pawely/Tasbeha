@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="at.asy.campus02.tasbeha">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cross"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="at.tasbeha.main.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TensinoActivity"
+            android:label="@string/label_tensino" />
+        <activity
+            android:name=".TennafActivity"
+            android:label="@string/label_tennaf" />
+        <activity
+            android:name=".ErsterHoosActivity"
+            android:label="@string/label_ersterHoos" />
+        <activity
+            android:name="at.tasbeha.settings.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name="at.tasbeha.settings.EinstellungenActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name=".ChenushotActivity"
+            android:label="@string/title_activity_chenushot"/>
+
+        <!--
+             ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+
+    </application>
+
+</manifest>
