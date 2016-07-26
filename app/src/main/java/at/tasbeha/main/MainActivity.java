@@ -10,13 +10,11 @@ import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Spinner;
-import android.widget.TextView;
 
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
@@ -24,11 +22,11 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 import java.util.Locale;
 
-import at.asy.campus02.tasbeha.ChenushotActivity;
-import at.asy.campus02.tasbeha.ErsterHoosActivity;
+import at.tasbeha.lobsch.ChenushotActivity;
+import at.tasbeha.hosat.ErsterHoosActivity;
 import at.asy.campus02.tasbeha.R;
-import at.asy.campus02.tasbeha.TennafActivity;
-import at.asy.campus02.tasbeha.TensinoActivity;
+import at.tasbeha.TennafActivity;
+import at.tasbeha.TensinoActivity;
 
 public class MainActivity extends AppCompatActivity {
 

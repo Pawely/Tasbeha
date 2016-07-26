@@ -19,13 +19,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".TensinoActivity"
+            android:name="at.tasbeha.TensinoActivity"
             android:label="@string/label_tensino" />
         <activity
-            android:name=".TennafActivity"
+            android:name="at.tasbeha.TennafActivity"
             android:label="@string/label_tennaf" />
         <activity
-            android:name=".ErsterHoosActivity"
+            android:name="at.tasbeha.hosat.ErsterHoosActivity"
             android:label="@string/label_ersterHoos" />
         <activity
             android:name="at.tasbeha.settings.SettingsActivity"
@@ -34,7 +34,7 @@
             android:name="at.tasbeha.settings.EinstellungenActivity"
             android:label="@string/title_activity_settings" />
         <activity
-            android:name=".ChenushotActivity"
+            android:name="at.tasbeha.lobsch.ChenushotActivity"
             android:label="@string/title_activity_chenushot"/>
 
         <!--

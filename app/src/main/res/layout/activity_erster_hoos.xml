@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="at.asy.campus02.tasbeha.ErsterHoosActivity">
+    tools:context="at.tasbeha.hosat.ErsterHoosActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -24,8 +24,8 @@
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="@string/ersterHoos_coptic"
                 android:id="@+id/tv_ersterHoos_coptic"
-                android:paddingRight="2dp"
-                android:textSize="18sp"/>
+                android:paddingRight="4dp"
+                android:textSize="21sp"/>
 
             <TextView
                 android:layout_width="0dp"
@@ -34,7 +34,7 @@
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="@string/ersterHoos_german"
                 android:id="@+id/tv_ersterHoos_german"
-                android:textSize="18sp"/>
+                android:textSize="20sp"/>
 
         </LinearLayout>
     </ScrollView>

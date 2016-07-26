@@ -1,7 +1,9 @@
-package at.asy.campus02.tasbeha;
+package at.tasbeha;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import at.asy.campus02.tasbeha.R;
 
 public class TennafActivity extends AppCompatActivity {
 

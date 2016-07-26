@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="at.asy.campus02.tasbeha.ChenushotActivity">
+    tools:context="at.tasbeha.lobsch.ChenushotActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -25,7 +25,7 @@
                 android:text="@string/chenushot_coptic"
                 android:id="@+id/tv_chenushot_coptic"
                 android:paddingRight="2dp"
-                android:textSize="18sp"
+                android:textSize="21sp"
                 android:textIsSelectable="true" />
 
             <TextView
@@ -35,7 +35,7 @@
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:text="@string/chenushot_german"
                 android:id="@+id/tv_chenushot_german"
-                android:textSize="18sp" />
+                android:textSize="20sp" />
 
         </LinearLayout>
     </ScrollView>
