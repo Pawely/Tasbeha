@@ -5,9 +5,14 @@
     <string name="label_tensino">Tenthino</string>
     <string name="titel_tennaf">Der Auferstehungshymnus</string>
     <string name="label_tennaf">Tennaf</string>
-    <string name="label_ersterHoos">1. Hoos</string>
+    <string name="label_ersterHoos">Erster Hoos</string>
     <string name="titel_ersterHoos">Der erste Hoos</string>
     <string name="title_activity_settings">Einstellungen</string>
+    <string name="titel_chenushot">Erläuterung des ersten Hoos</string>
+    <string name="title_activity_chenushot">Chen Ushot</string>
+    <string name="titel_zweiterHoos">Der zweite Hoos</string>
+    <string name="label_zweiterHoos">Zweiter Hoos</string>
+
 
     <!-- Strings related to Settings -->
     <string-array name="lang_select">
@@ -85,7 +90,5 @@
     <string name="btn_change">Ändern</string>
     <string name="btn_cancel">Abbrechen</string>
     <string name="textSize_setting">Schriftgröße</string>
-    <string name="titel_chenushot">Erläuterung des ersten Hoos</string>
-    <string name="title_activity_chenushot">Chen Ushot</string>
 
 </resources>

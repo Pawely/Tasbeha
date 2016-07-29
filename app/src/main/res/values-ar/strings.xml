@@ -17,4 +17,6 @@
     <string name="textSize_setting">Text Size</string>
     <string name="titel_chenushot">The First Hoos Lobsh</string>
     <string name="title_activity_chenushot">Chen Ushot</string>
+    <string name="titel_zweiterHoos">The second Hoos</string>
+    <string name="label_zweiterHoos">Second Hoos</string>
 </resources>

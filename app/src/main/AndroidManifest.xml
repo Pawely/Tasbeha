@@ -18,6 +18,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!--
+             ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
         <activity
             android:name="at.tasbeha.TensinoActivity"
             android:label="@string/label_tensino" />
@@ -35,17 +43,10 @@
             android:label="@string/title_activity_settings" />
         <activity
             android:name="at.tasbeha.lobsch.ChenushotActivity"
-            android:label="@string/title_activity_chenushot"/>
-
-        <!--
-             ATTENTION: This was auto-generated to add Google Play services to your project for
-             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
-        -->
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version" />
-
-
+            android:label="@string/title_activity_chenushot" />
+        <activity
+            android:name="at.tasbeha.hosat.ZweiterHoosActivity"
+            android:label="@string/label_zweiterHoos" />
     </application>
 
 </manifest>

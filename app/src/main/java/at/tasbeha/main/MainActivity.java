@@ -22,6 +22,7 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 import java.util.Locale;
 
+import at.tasbeha.hosat.ZweiterHoosActivity;
 import at.tasbeha.lobsch.ChenushotActivity;
 import at.tasbeha.hosat.ErsterHoosActivity;
 import at.asy.campus02.tasbeha.R;
@@ -69,6 +70,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //OnClick Eventhandlers
+
     public void mitternachtslobgesang(View view) {
         //validate input
         Intent mitternachtslobgesang = new Intent(this, TensinoActivity.class);
@@ -91,6 +94,12 @@ public class MainActivity extends AppCompatActivity {
         //validate input
         Intent chenushot = new Intent(this, ChenushotActivity.class);
         startActivity(chenushot);
+    }
+
+    public void zweiterHoos(View view) {
+        //validate input
+        Intent zweiterHoos = new Intent(this, ZweiterHoosActivity.class);
+        startActivity(zweiterHoos);
     }
 
     @Override
