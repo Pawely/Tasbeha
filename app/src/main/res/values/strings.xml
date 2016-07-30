@@ -90,5 +90,7 @@
     <string name="btn_change">Ändern</string>
     <string name="btn_cancel">Abbrechen</string>
     <string name="textSize_setting">Schriftgröße</string>
+    <string name="label_marenuonh">Marenuonh</string>
+    <string name="titel_marenuonh">Erläuterung des zweiten Hoos</string>
 
 </resources>

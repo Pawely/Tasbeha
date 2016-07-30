@@ -28,6 +28,7 @@ import at.tasbeha.hosat.ErsterHoosActivity;
 import at.asy.campus02.tasbeha.R;
 import at.tasbeha.TennafActivity;
 import at.tasbeha.TensinoActivity;
+import at.tasbeha.lobsch.MarenuonhActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -100,6 +101,12 @@ public class MainActivity extends AppCompatActivity {
         //validate input
         Intent zweiterHoos = new Intent(this, ZweiterHoosActivity.class);
         startActivity(zweiterHoos);
+    }
+
+    public void marenuonh(View view) {
+        //validate input
+        Intent marenuonh = new Intent(this, MarenuonhActivity.class);
+        startActivity(marenuonh);
     }
 
     @Override

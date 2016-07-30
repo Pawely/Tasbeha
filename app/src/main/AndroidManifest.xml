@@ -47,6 +47,9 @@
         <activity
             android:name="at.tasbeha.hosat.ZweiterHoosActivity"
             android:label="@string/label_zweiterHoos" />
+        <activity
+            android:name="at.tasbeha.lobsch.MarenuonhActivity"
+            android:label="@string/label_marenuonh" />
     </application>
 
 </manifest>

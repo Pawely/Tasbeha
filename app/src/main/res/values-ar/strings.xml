@@ -2,21 +2,23 @@
 <resources>
     <string name="app_name">Tasbeha</string>
     <string name="action_settings">Settings</string>
-    <string name="label_ersterHoos">First Hoos</string>
-    <string name="label_tennaf">Tennaf</string>
-    <string name="label_tensino">Tenthino</string>
+    <string name="label_ersterHoos">الهوس الأول</string>
+    <string name="label_tennaf">لحن القيامة - تينناف</string>
+    <string name="label_tensino">لحن تين ثينو</string>
     <string name="lang_dialog_message">Choose a language:</string>
     <string name="lang_dialog_title">Change language</string>
     <string name="language_setting">Language</string>
-    <string name="titel_ersterHoos">The first hoos</string>
-    <string name="titel_mitternachtslobgesang">Midnight praise</string>
-    <string name="titel_tennaf">The Hymn of the Resurrection</string>
+    <string name="titel_ersterHoos">الهوس الأول</string>
+    <string name="titel_mitternachtslobgesang">لحن تين ثينو</string>
+    <string name="titel_tennaf">لحن القيامة - تينناف</string>
     <string name="title_activity_settings">Settings</string>
     <string name="btn_change">Change</string>
     <string name="btn_cancel">Cancel</string>
     <string name="textSize_setting">Text Size</string>
-    <string name="titel_chenushot">The First Hoos Lobsh</string>
-    <string name="title_activity_chenushot">Chen Ushot</string>
-    <string name="titel_zweiterHoos">The second Hoos</string>
-    <string name="label_zweiterHoos">Second Hoos</string>
+    <string name="titel_chenushot">لبش الهوس الأول</string>
+    <string name="title_activity_chenushot">قطعاً إنقطع</string>
+    <string name="titel_zweiterHoos">الهوس الثاني</string>
+    <string name="label_zweiterHoos">الهوس الثاني</string>
+    <string name="label_marenuonh">فلنشكر</string>
+    <string name="titel_marenuonh">لبش الهوس الثاني</string>
 </resources>
