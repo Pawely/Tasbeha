@@ -22,17 +22,17 @@
                 android:layout_height="fill_parent"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text=""
+                android:text="@string/tennaf_coptic"
                 android:id="@+id/tv_tennaf_coptic"
                 android:paddingRight="2dp"
-                android:textSize="21sp"/>
+                android:textSize="20sp"/>
 
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="fill_parent"
                 android:layout_weight="1"
                 android:textAppearance="?android:attr/textAppearanceMedium"
-                android:text=""
+                android:text="@string/tennaf_german"
                 android:id="@+id/tv_tennaf_german"
                 android:textSize="20sp"/>
 
