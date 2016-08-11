@@ -33,7 +33,7 @@
             android:name="at.tasbeha.TennafActivity"
             android:label="@string/label_tennaf" />
         <activity
-            android:name="at.tasbeha.hosat.ErsterHoosActivity"
+            android:name="at.tasbeha.ErsterHoosActivity"
             android:label="@string/label_ersterHoos" />
         <activity
             android:name="at.tasbeha.settings.SettingsActivity"
