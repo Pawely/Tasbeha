@@ -22,9 +22,9 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 import java.util.Locale;
 
-import at.tasbeha.hosat.ZweiterHoosActivity;
+import at.tasbeha.ZweiterHoosActivity;
 import at.tasbeha.lobsch.ChenushotActivity;
-import at.tasbeha.hosat.ErsterHoosActivity;
+import at.tasbeha.ErsterHoosActivity;
 import at.asy.campus02.tasbeha.R;
 import at.tasbeha.TennafActivity;
 import at.tasbeha.TensinoActivity;
