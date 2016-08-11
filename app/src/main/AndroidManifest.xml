@@ -33,7 +33,7 @@
             android:name="at.tasbeha.TennafActivity"
             android:label="@string/label_tennaf" />
         <activity
-            android:name="at.tasbeha.ErsterHoosActivity"
+            android:name="at.tasbeha.hosat.ErsterHoosActivity"
             android:label="@string/label_ersterHoos" />
         <activity
             android:name="at.tasbeha.settings.SettingsActivity"
@@ -45,7 +45,7 @@
             android:name="at.tasbeha.lobsch.ChenushotActivity"
             android:label="@string/title_activity_chenushot" />
         <activity
-            android:name="at.tasbeha.ZweiterHoosActivity"
+            android:name="at.tasbeha.hosat.ZweiterHoosActivity"
             android:label="@string/label_zweiterHoos" />
         <activity
             android:name="at.tasbeha.lobsch.MarenuonhActivity"

@@ -1,4 +1,4 @@
-package at.tasbeha;
+package at.tasbeha.hosat;
 
 import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
