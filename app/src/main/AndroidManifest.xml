@@ -50,6 +50,9 @@
         <activity
             android:name="at.tasbeha.lobsch.MarenuonhActivity"
             android:label="@string/label_marenuonh" />
+        <activity
+            android:name="at.tasbeha.hosat.DritterHoosActivity"
+            android:label="@string/label_dritterHoos"/>
     </application>
 
 </manifest>

@@ -22,6 +22,7 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 import java.util.Locale;
 
+import at.tasbeha.hosat.DritterHoosActivity;
 import at.tasbeha.hosat.ZweiterHoosActivity;
 import at.tasbeha.lobsch.ChenushotActivity;
 import at.tasbeha.hosat.ErsterHoosActivity;
@@ -107,6 +108,12 @@ public class MainActivity extends AppCompatActivity {
         //validate input
         Intent marenuonh = new Intent(this, MarenuonhActivity.class);
         startActivity(marenuonh);
+    }
+
+    public void dritterHoos(View view) {
+        //validate input
+        Intent dritterHoos = new Intent(this, DritterHoosActivity.class);
+        startActivity(dritterHoos);
     }
 
     @Override
