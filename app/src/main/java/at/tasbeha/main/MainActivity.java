@@ -22,6 +22,7 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 import java.util.Locale;
 
+import at.tasbeha.GemeinschaftActivity;
 import at.tasbeha.TenuehEnthokActivity;
 import at.tasbeha.epsali.AripsalinActivity;
 import at.tasbeha.hosat.DritterHoosActivity;
@@ -128,6 +129,12 @@ public class MainActivity extends AppCompatActivity {
         //validate input
         Intent tenuehEnthok = new Intent(this, TenuehEnthokActivity.class);
         startActivity(tenuehEnthok);
+    }
+
+    public void gemeinschaft(View view) {
+        //validate input
+        Intent gemeinschaft = new Intent(this, GemeinschaftActivity.class);
+        startActivity(gemeinschaft);
     }
 
 

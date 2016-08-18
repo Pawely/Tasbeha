@@ -58,7 +58,10 @@
             android:label="@string/label_aripsalin" />
         <activity
             android:name="at.tasbeha.TenuehEnthokActivity"
-            android:label="@string/label_tenuehEnthok"/>
+            android:label="@string/label_tenuehEnthok" />
+        <activity
+            android:name="at.tasbeha.GemeinschaftActivity"
+            android:label="@string/label_gemeinschaft"/>
     </application>
 
 </manifest>
