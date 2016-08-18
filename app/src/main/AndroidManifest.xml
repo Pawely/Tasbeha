@@ -52,7 +52,13 @@
             android:label="@string/label_marenuonh" />
         <activity
             android:name="at.tasbeha.hosat.DritterHoosActivity"
-            android:label="@string/label_dritterHoos"/>
+            android:label="@string/label_dritterHoos" />
+        <activity
+            android:name="at.tasbeha.epsali.AripsalinActivity"
+            android:label="@string/label_aripsalin" />
+        <activity
+            android:name="at.tasbeha.TenuehEnthokActivity"
+            android:label="@string/label_tenuehEnthok"/>
     </application>
 
 </manifest>

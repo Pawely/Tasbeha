@@ -92,5 +92,9 @@
     <string name="titel_marenuonh">Erläuterung des zweiten Hoos</string>
     <string name="titel_dritterHoos">Der dritte Hoos</string>
     <string name="label_dritterHoos">Dritter Hoos</string>
+    <string name="titel_aripsalin">Aripsalin</string>
+    <string name="label_aripsalin">Aripsalin</string>
+    <string name="titel_tenuehEnthok">Hymne für die hl. drei Jünglinge</string>
+    <string name="label_tenuehEnthok">Tenueh Enthok</string>
 
 </resources>

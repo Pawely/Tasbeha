@@ -22,6 +22,8 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 import java.util.Locale;
 
+import at.tasbeha.TenuehEnthokActivity;
+import at.tasbeha.epsali.AripsalinActivity;
 import at.tasbeha.hosat.DritterHoosActivity;
 import at.tasbeha.hosat.ZweiterHoosActivity;
 import at.tasbeha.lobsch.ChenushotActivity;
@@ -115,6 +117,19 @@ public class MainActivity extends AppCompatActivity {
         Intent dritterHoos = new Intent(this, DritterHoosActivity.class);
         startActivity(dritterHoos);
     }
+
+    public void aripsalin(View view) {
+        //validate input
+        Intent aripsalin = new Intent(this, AripsalinActivity.class);
+        startActivity(aripsalin);
+    }
+
+    public void tenuehEnthok(View view) {
+        //validate input
+        Intent tenuehEnthok = new Intent(this, TenuehEnthokActivity.class);
+        startActivity(tenuehEnthok);
+    }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

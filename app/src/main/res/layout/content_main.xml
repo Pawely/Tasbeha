@@ -101,4 +101,30 @@
         android:layout_below="@+id/btn_marenuonh"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titel_aripsalin"
+        android:id="@+id/btn_aripsalin"
+        android:background="@android:color/transparent"
+        android:textColor="@color/black"
+        android:onClick="aripsalin"
+        android:textSize="15dp"
+        android:layout_below="@+id/btn_dritterHoos"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titel_tenuehEnthok"
+        android:id="@+id/btn_tenuehEnthok"
+        android:background="@android:color/transparent"
+        android:textColor="@color/black"
+        android:onClick="tenuehEnthok"
+        android:textSize="15dp"
+        android:layout_below="@+id/btn_aripsalin"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
