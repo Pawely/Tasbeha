@@ -61,7 +61,10 @@
             android:label="@string/label_tenuehEnthok" />
         <activity
             android:name="at.tasbeha.GemeinschaftActivity"
-            android:label="@string/label_gemeinschaft"/>
+            android:label="@string/label_gemeinschaft" />
+        <activity
+            android:name="at.tasbeha.hosat.VierterHoosActivity"
+            android:label="@string/label_vierterHoos"/>
     </application>
 
 </manifest>

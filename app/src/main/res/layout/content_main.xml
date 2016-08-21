@@ -140,4 +140,18 @@
         android:layout_below="@+id/btn_tenuehEnthok"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/titel_vierterHoos"
+        android:id="@+id/btn_vierterHoos"
+        android:background="@android:color/transparent"
+        android:textColor="@color/black"
+        android:onClick="vierterHoos"
+        android:textSize="15dp"
+        android:layout_below="@+id/btn_gemeinschaft"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
 </RelativeLayout>

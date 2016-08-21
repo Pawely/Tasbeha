@@ -26,6 +26,7 @@ import at.tasbeha.GemeinschaftActivity;
 import at.tasbeha.TenuehEnthokActivity;
 import at.tasbeha.epsali.AripsalinActivity;
 import at.tasbeha.hosat.DritterHoosActivity;
+import at.tasbeha.hosat.VierterHoosActivity;
 import at.tasbeha.hosat.ZweiterHoosActivity;
 import at.tasbeha.lobsch.ChenushotActivity;
 import at.tasbeha.hosat.ErsterHoosActivity;
@@ -126,17 +127,19 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void tenuehEnthok(View view) {
-        //validate input
         Intent tenuehEnthok = new Intent(this, TenuehEnthokActivity.class);
         startActivity(tenuehEnthok);
     }
 
     public void gemeinschaft(View view) {
-        //validate input
         Intent gemeinschaft = new Intent(this, GemeinschaftActivity.class);
         startActivity(gemeinschaft);
     }
 
+    public void vierterHoos(View view) {
+        Intent vierterHoos = new Intent(this, VierterHoosActivity.class);
+        startActivity(vierterHoos);
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
