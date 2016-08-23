@@ -25,6 +25,8 @@ import java.util.Locale;
 import at.tasbeha.GemeinschaftActivity;
 import at.tasbeha.TenuehEnthokActivity;
 import at.tasbeha.epsali.AripsalinActivity;
+import at.tasbeha.epsali.ErsteSonntagsEpsaliActivity;
+import at.tasbeha.epsali.ZweiteSonntagsEpsaliActivity;
 import at.tasbeha.hosat.DritterHoosActivity;
 import at.tasbeha.hosat.VierterHoosActivity;
 import at.tasbeha.hosat.ZweiterHoosActivity;
@@ -139,6 +141,16 @@ public class MainActivity extends AppCompatActivity {
     public void vierterHoos(View view) {
         Intent vierterHoos = new Intent(this, VierterHoosActivity.class);
         startActivity(vierterHoos);
+    }
+
+    public void ersteSoEpsali(View view) {
+        Intent ersteSoEpsali = new Intent(this, ErsteSonntagsEpsaliActivity.class);
+        startActivity(ersteSoEpsali);
+    }
+
+    public void zweiteSoEpsali(View view) {
+        Intent zweiteSoEpsali = new Intent(this, ZweiteSonntagsEpsaliActivity.class);
+        startActivity(zweiteSoEpsali);
     }
 
     @Override

@@ -31,4 +31,8 @@
     <string name="label_gemeinschaft">مجمع القديسين</string>
     <string name="titel_vierterHoos">الهوس الرابع</string>
     <string name="label_vierterHoos">الهوس الرابع</string>
+    <string name="titel_ersteSoEpsali">إبصالية الأحد الأول</string>
+    <string name="label_ersteSoEpsali">إبصالية الأحد الأول</string>
+    <string name="label_zweiteSoEpsali">Die zweite Sonntagsepsali</string>
+    <string name="titel_zweiteSoEpsali">Die zweite Sonntagsepsali</string>
 </resources>

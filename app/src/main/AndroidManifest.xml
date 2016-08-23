@@ -64,7 +64,13 @@
             android:label="@string/label_gemeinschaft" />
         <activity
             android:name="at.tasbeha.hosat.VierterHoosActivity"
-            android:label="@string/label_vierterHoos"/>
+            android:label="@string/label_vierterHoos" />
+        <activity
+            android:name="at.tasbeha.epsali.ErsteSonntagsEpsaliActivity"
+            android:label="@string/label_ersteSoEpsali" />
+        <activity
+            android:name="at.tasbeha.epsali.ZweiteSonntagsEpsaliActivity"
+            android:label="@string/label_zweiteSoEpsali"/>
     </application>
 
 </manifest>
