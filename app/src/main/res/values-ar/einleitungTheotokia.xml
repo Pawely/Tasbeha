@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="einleitungTheotokia_coptic">
+"Loipon ansan;wou]@ `e]`proceu,y@ maren`cmou `epiran@ `nte Pa[oic Iycouc.
+
++ Je tenna`cmou `erok@ `w Pa[oic Iycouc@ nahmen qen pekran@ je anerhelpic `erok.
+
+E;renhwc `erok@ nem Pekiwt `n`aga;oc@ nem Pi`pneuma e;ouab@ je (aktwnk/ak`i) akcw] `mmon
+
++ Doxa Patri ke `Uiw@ ke `Agiw `Pneumati@ ke nun ke `a`i ke ic touc@ `e`wnac twn `e`wnwn `amyn.
+"
+    </string>
+
+    <string name="einleitungTheotokia_german">
+        "وأيضاً إذا ما إجتمعنا، للصلاة، فلنبارك إسم، ربي يسوع.
+
+
+
+
++ لأننا نباركك، يا ربي يسوع، نجنا بإسمك، لأننا توكلنا عليك.
+
+
+
+لكي نسبحك، مع أبيك الصالح، والروح القدس، لأنك (قُمت/أتيت) وخلصتنا.
+
+
+
++ المجد للآب والإبن، والروح القدوس، الآن وكل أوان، وإلى دهر الدهور آمين.
+
+"
+    </string>
+</resources>

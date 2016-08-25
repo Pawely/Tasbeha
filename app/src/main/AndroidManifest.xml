@@ -70,7 +70,10 @@
             android:label="@string/label_ersteSoEpsali" />
         <activity
             android:name="at.tasbeha.epsali.ZweiteSonntagsEpsaliActivity"
-            android:label="@string/label_zweiteSoEpsali"/>
+            android:label="@string/label_zweiteSoEpsali" />
+        <activity
+            android:name="at.tasbeha.theotokiat.EinleitungTheotokiaActivity"
+            android:label="@string/label_einleitungTheotokia"/>
     </application>
 
 </manifest>

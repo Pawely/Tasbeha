@@ -36,6 +36,7 @@ import at.asy.campus02.tasbeha.R;
 import at.tasbeha.TennafActivity;
 import at.tasbeha.TensinoActivity;
 import at.tasbeha.lobsch.MarenuonhActivity;
+import at.tasbeha.theotokiat.EinleitungTheotokiaActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -151,6 +152,11 @@ public class MainActivity extends AppCompatActivity {
     public void zweiteSoEpsali(View view) {
         Intent zweiteSoEpsali = new Intent(this, ZweiteSonntagsEpsaliActivity.class);
         startActivity(zweiteSoEpsali);
+    }
+
+    public void einleitungTheotokia(View view) {
+        Intent einleitungTheotokia = new Intent(this, EinleitungTheotokiaActivity.class);
+        startActivity(einleitungTheotokia);
     }
 
     @Override

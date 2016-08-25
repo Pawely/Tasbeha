@@ -104,5 +104,7 @@
     <string name="label_ersteSoEpsali">Die erste Sonntagsepsali</string>
     <string name="label_zweiteSoEpsali">Die zweite Sonntagsepsali</string>
     <string name="titel_zweiteSoEpsali">Die zweite Sonntagsepsali</string>
+    <string name="titel_einleitungTheotokia">Einleitung der Theotokia</string>
+    <string name="label_einleitungTheotokia">Einleitung der Theotokia</string>
 
 </resources>

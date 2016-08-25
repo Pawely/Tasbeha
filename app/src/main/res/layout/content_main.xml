@@ -191,6 +191,19 @@
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentStart="true" />
 
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/titel_einleitungTheotokia"
+                android:id="@+id/btn_einleitungTheotokia"
+                android:background="@android:color/transparent"
+                android:textColor="@color/black"
+                android:onClick="einleitungTheotokia"
+                android:textSize="15dp"
+                android:layout_below="@+id/btn_zweiteSoPsali"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
         </LinearLayout>
     </ScrollView>
 
